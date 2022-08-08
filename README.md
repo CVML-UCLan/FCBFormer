@@ -23,14 +23,14 @@ this end, we propose a new architecture for full-size segmentation which leverag
 ### Qualitative results
 
 <p align="center">
-	<img width=900, src="Comparison.jpg"> <br />
+	<img width=900, src="Comparison.png"> <br />
 	<em>
 		Figure 2: Comparison of predictions of FCBFormer against baselines. 
 	</em>
 </p>
 
 <p align="center">
-	<img width=900, src="FCB_benefit.jpg"> <br />
+	<img width=900, src="FCB_benefit.png"> <br />
 	<em>
 		Figure 3: Visualisation of the benefit of the fully convolutional branch (FCB)
 	</em>
