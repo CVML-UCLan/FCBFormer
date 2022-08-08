@@ -20,12 +20,12 @@ this end, we propose a new architecture for full-size segmentation which leverag
 	</em>
 </p>
 
-### Qualitative results
+### 1.3 Qualitative results
 
 <p align="center">
 	<img width=900, src="Comparison.png"> <br />
 	<em>
-		Figure 2: Comparison of predictions of FCBFormer against baselines. 
+		Figure 2: Comparison of predictions of FCBFormer against baselines. FF is FCBFormer, PN is PraNet, MN is MSRF-Net, R++ is ResUNet++, UN is U-Net
 	</em>
 </p>
 
