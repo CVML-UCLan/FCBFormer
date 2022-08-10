@@ -4,4 +4,4 @@ Official codebase for: FCN-Transformer Feature Fusion for Polyp Segmentation (MI
 
 Authors: Edward Sanderson and Bogdan J. Matuszewski
 
-This code base is now hosted [here](https://github.com/ESandML/FCBFormer)
+This codebase is now hosted [here](https://github.com/ESandML/FCBFormer)
